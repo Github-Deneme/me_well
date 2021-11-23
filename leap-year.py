@@ -26,3 +26,5 @@ if (n == 0) or (n == 1) or (counter >= 3) :
   print(n, " is not a Prime Number")
 else :
   print(n, " is a Prime Number")
+
+ozgur
