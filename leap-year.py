@@ -25,3 +25,4 @@ print("leap year changed")
                         print(n, " is not a Prime Number")
                     else :
                           print(n, " is a Prime Number")
+                          suaybi suayb2
