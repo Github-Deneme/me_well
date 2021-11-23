@@ -11,7 +11,9 @@ if (year % 4) == 0:
     else:
         print("{0} is a leap year".format(year))
 else:
-    print("{0} is not a leap year".format(year))
+    print("{0} is not a leap year".format(year)
+
+print("leap year changed")
     # "Is it a prime number?" joseph hoca çözümü 
     n = int(input("Enter a positive number to check if it is a Prime Number: "))
     counter = 0 
