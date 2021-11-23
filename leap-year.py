@@ -28,3 +28,5 @@ else :
   print(n, " is a Prime Number")
 
 ozgur
+ozgur 2
+
